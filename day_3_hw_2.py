@@ -1,0 +1,1 @@
+# WAP to calculate perimeter of rectangle. p= 2(L+B)
