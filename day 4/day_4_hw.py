@@ -1,0 +1,1 @@
+# WAP to check a number is odd or even takking number form the user.
