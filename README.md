@@ -7,3 +7,5 @@
 ## Day 4: Basic Input and Output operations in Python. {Using input() to take user input and print() to display output.}
 
 ## Day 5: Control Structures in Python. {Understanding if-else statements and loops (for, while) for decision making and iteration.}
+
+## Day 6: Loops in Python. {Diving deeper into for and while loops, including nested loops and loop control statements (break, continue).}
