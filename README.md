@@ -13,3 +13,5 @@ Link to resources of python (reading): https://www.w3schools.com/python/
 ## Day 6: Loops in Python. {Diving deeper into for and while loops, including nested loops and loop control statements (break, continue).}
 
 ## Day 7: While loops in Python. {Understanding the syntax and usage of while loops for repeated execution based on a condition.}
+
+## Day 8: Functions in Python. {Defining and calling functions, understanding parameters and return values.}
