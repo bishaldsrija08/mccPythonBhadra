@@ -1,4 +1,3 @@
-def calculate_area(length, width)
-
-    print("The area is: ", length * widht)
-calculate_area(5 10)
+def calculate_area(length, width):
+    print("The area is: ", length * width)
+calculate_area(5, 10)
