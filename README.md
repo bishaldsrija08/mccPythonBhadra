@@ -17,3 +17,5 @@ Link to resources of python (reading): https://www.w3schools.com/python/
 ## Day 8: Functions in Python. {Defining and calling functions, understanding parameters and return values.}
 
 ## Day 9: Built-in Functions in Python. {Exploring commonly used built-in functions like len(), type(), str(), int(), etc.}
+
+## Day 10: Debugging Errors in Python. {Identifying and fixing common errors in Python code, using debugging tools and techniques.}
