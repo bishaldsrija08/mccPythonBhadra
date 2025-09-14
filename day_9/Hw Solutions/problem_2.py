@@ -2,8 +2,8 @@
 # ❌ Buggy Code:
 
 def check_even_odd(num):
-    if number % 2 == 0:
-        print "Even Number"
+    if num % 2 == 0:
+        print ("Even Number")
     else:
         print("Odd Number")
 
