@@ -1,0 +1,32 @@
+
+task =[]
+
+while True:
+    print("\n To-Do List Application")
+    print("1. Add Task")
+    print("2. View Tasks")
+    print("3. Remove Task")
+    print("4. Sort Tasks")
+    print("5. Exit")
+    choice = int(input("Enter your choice: "))
+
+    if choice ==1:
+        task_name = input("Enter the task name: ")
+        task.append(task_name)
+    elif choice ==2:
+        print("Your Tasks:")
+        for i in range(len(task)):
+            print(f"{i+1}. {task[i]}")
+    elif choice ==3:
+        task_index = int(input("Enter the task number to remove form 1: ")) - 1
+        if 0<=task_index <len(task):
+            task.pop(task_index)
+            print("Task removed.")
+    elif choice ==4:
+        task.sort()
+        print("Tasks sorted alphabetically.")
+    elif choice ==5:
+        print("Exiting the application.")
+        break
+    else:
+        print("Invalid choice. Please try again.")
