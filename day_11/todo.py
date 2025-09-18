@@ -1,4 +1,3 @@
-
 task =[]  # Empty list to store tasks
 
 while True:
