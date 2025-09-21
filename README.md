@@ -21,3 +21,9 @@ Link to resources of python (reading): https://www.w3schools.com/python/
 ## Day 10: Debugging Errors in Python. {Identifying and fixing common errors in Python code, using debugging tools and techniques.}
 
 ## Day 11: List in Python. {Understanding lists, list operations, and methods for manipulating lists.}
+
+## Day 12: List in Python (Revision + Project). {Understanding lists, list operations, and methods for manipulating lists.}
+
+## Day 13: Revision of all topics covered so far. {Reviewing and reinforcing concepts learned in previous days.}
+
+## Day 14: Revision of all topics covered so far. {Reviewing and reinforcing concepts learned in previous days. + Practice problems.}
