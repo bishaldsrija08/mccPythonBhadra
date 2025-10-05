@@ -29,3 +29,5 @@ Link to resources of python (reading): https://www.w3schools.com/python/
 ## Day 14: Revision of all topics covered so far. {Reviewing and reinforcing concepts learned in previous days. + Practice problems.}
 
 ## Day 15: Revision of all topics covered so far. {Reviewing and reinforcing concepts learned in previous days. + Practice problems.}
+
+## Day 16: Revision of loops (for and while loops). {Revisiting loop concepts, solving problems involving loops.}
