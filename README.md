@@ -33,3 +33,4 @@ Link to resources of python (reading): https://www.w3schools.com/python/
 ## Day 16: Revision of loops (for and while loops). {Revisiting loop concepts, solving problems involving loops.}
 ## Day 17: Revision of functions. {Revisiting function concepts, solving problems involving functions.}
 ## Day 18: Nested loops. {Understanding and implementing nested loops for complex iterations.}
+## Day 19: Nested loop problems. {Solving problems that require the use of nested loops.}
