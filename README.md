@@ -39,3 +39,5 @@ Link to resources of python (reading): https://www.w3schools.com/python/
 ## Day 19: Nested loop problems. {Solving problems that require the use of nested loops.}
 
 ## Day 20: Sets and Tuples in Python. {Understanding sets and tuples, their properties, and basic operations.}
+
+## Day 21: Read, write and append files in Python. {Learning file handling operations like reading from, writing to, and appending to files.}
