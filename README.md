@@ -41,3 +41,7 @@ Link to resources of python (reading): https://www.w3schools.com/python/
 ## Day 20: Sets and Tuples in Python. {Understanding sets and tuples, their properties, and basic operations.}
 
 ## Day 21: Read, write and append files in Python. {Learning file handling operations like reading from, writing to, and appending to files.}
+
+## Day 22: Error handling in Python. {Understanding exceptions, using try-except blocks for error handling.}
+
+## Day 23: Data Visualization using Matplotlib. {Creating basic plots and charts using the Matplotlib library.}
