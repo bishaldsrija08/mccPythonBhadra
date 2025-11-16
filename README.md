@@ -45,3 +45,19 @@ Link to resources of python (reading): https://www.w3schools.com/python/
 ## Day 22: Error handling in Python. {Understanding exceptions, using try-except blocks for error handling.}
 
 ## Day 23: Data Visualization using Matplotlib. {Creating basic plots and charts using the Matplotlib library.}
+
+## Day 24: Data Visualization using Matplotlib (Continued). {Creating pie charts and bar charts to visualize student grades.}
+
+## Day 25: More on Data Visualization using Matplotlib. {Enhancing visualizations with labels, titles, and legends.}
+
+## Day 26: Project I
+
+## Day 27: Project II
+
+## Day 28: Project showcase and conclusion.
+
+## Day 29: Rock Paper Scissors Game Project. {Building a simple Rock-Paper-Scissors game using Python.}
+
+## Day 30: Number Guessing Game Project. {Creating a number guessing game where the user has to guess a randomly generated number.}
+
+## Day 31: Grading system project. {Developing a grading system that assigns grades based on student scores.} {Includes data visualization of grades using pie and bar charts.}
