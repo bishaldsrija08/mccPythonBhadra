@@ -61,3 +61,5 @@ Link to resources of python (reading): https://www.w3schools.com/python/
 ## Day 30: Number Guessing Game Project. {Creating a number guessing game where the user has to guess a randomly generated number.}
 
 ## Day 31: Grading system project. {Developing a grading system that assigns grades based on student scores.} {Includes data visualization of grades using pie and bar charts.}
+
+## day 32: Countdown Timer Project. {Implementing a countdown timer that counts down to a specific event date and time.} {Includes user input for event name and date, and displays the remaining time in days}
