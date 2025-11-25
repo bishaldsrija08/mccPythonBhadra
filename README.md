@@ -64,6 +64,10 @@ Link to resources of python (reading): https://www.w3schools.com/python/
 
 ## day 32: Countdown Timer Project. {Implementing a countdown timer that counts down to a specific event date and time.} {Includes user input for event name and date, and displays the remaining time in days}
 
-## day 33: SDLC
+## day 33: count down timer project
 
-## day 34: Budget tracker project start. {Creating a budget tracker to manage income and expenses.} {Includes adding, viewing, and categorizing transactions.}
+## day 34: SDLC
+
+## day 35: Budget tracker project start. {Creating a budget tracker to manage income and expenses.} {Includes adding, viewing, and categorizing transactions.}
+
+## day 36: Budget tracker project continuation. {Implementing features to calculate total income, expenses, and remaining budget.} {Includes data visualization of budget using charts.}
