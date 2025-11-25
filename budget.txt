@@ -1,0 +1,7 @@
+Income: 25000.0
+keyboard:3000.0
+Total Expenses: 5000.0
+Balance: 20000.0
+mouse:2000.0
+Total Expenses: 5000.0
+Balance: 20000.0
