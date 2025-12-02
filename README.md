@@ -72,4 +72,9 @@ Link to resources of python (reading): https://www.w3schools.com/python/
 
 ## day 36: Budget tracker project complete. {Implementing features to calculate total income, expenses, and remaining budget.} {Includes data visualization of budget using charts.}
 
-## Day 3&: Weather visualization project. {Building a weather visualization tool that displays daily temperature trends using Matplotlib.} {Includes reading weather data from a file and plotting temperature graphs.}
+## Day 37: Weather visualization project. {Building a weather visualization tool that displays daily temperature trends using Matplotlib.} {Includes reading weather data from a file and plotting temperature graphs.}
+
+
+## Day 38 and 39: Self project + all short revision of python concepts.
+
+## Day 40: Final day + presentation ready
